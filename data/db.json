@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create now homepage  ",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Bake Cake",
+      "details": "I have awesome recipes for moist cake, click on the link below to check my recipes",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Details on how to make Pie",
+      "details": "check the floor and make sure you achieve the correct measurement",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
